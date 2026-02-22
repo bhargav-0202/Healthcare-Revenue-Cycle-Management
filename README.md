@@ -11,8 +11,8 @@ Domain - Healthcare Revenue Cycle Management (RCM)
 ### Phase 1 – Ingestion Layer
 - [x] EMR ingestion (Full + Incremental)
 - [x] Metadata-driven pipeline
-- [ ] Claims ingestion
-- [ ] API integration (NPI, ICD)
+- [x] Claims ingestion
+- [x] API integration (NPI, ICD)
 
 ### Phase 2 – Silver Layer
 - [ ] Data cleaning & CDM
